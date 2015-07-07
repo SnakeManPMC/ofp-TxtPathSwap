@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TxtPathSwap", "TxtPathSwap.vcproj", "{330F51F5-0741-4B5D-A006-C3A7852A10BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{330F51F5-0741-4B5D-A006-C3A7852A10BD}.Debug.ActiveCfg = Debug|Win32
+		{330F51F5-0741-4B5D-A006-C3A7852A10BD}.Debug.Build.0 = Debug|Win32
+		{330F51F5-0741-4B5D-A006-C3A7852A10BD}.Release.ActiveCfg = Release|Win32
+		{330F51F5-0741-4B5D-A006-C3A7852A10BD}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
